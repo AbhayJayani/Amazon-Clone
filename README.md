@@ -15,9 +15,6 @@ Welcome to the Amazon Clone project! This project replicates the layout and styl
 - **CSS** - Handles styling and layout.
 - **Font Awesome** - Used for icons in the user interface.
 
-## Live Demo
-
-You can view the live demo of this project [here](https://your-live-demo-url.com). (Replace with actual URL if available)
 
 ## Installation
 
@@ -43,7 +40,3 @@ To view and run this project locally, follow these steps:
 - Navigate through different sections using the provided links and interact with the search bar and icons.
 - The footer includes various links for more information and legal details.
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
